@@ -12,4 +12,3 @@ distancia = input("Qual a distancia (d) ?")
 saida = "A força encontrada é %s." % (lei_coulomb(carga, carga_prova, distancia))
 
 print(saida)
-
